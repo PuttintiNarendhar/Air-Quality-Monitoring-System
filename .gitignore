@@ -1,0 +1,15 @@
+# Ignore build directories
+Debug/
+Release/
+build/
+
+# Ignore compiled files
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+*.su
+
+# Ignore OS files
+.DS_Store
